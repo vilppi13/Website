@@ -1,0 +1,37 @@
+html{
+    background-color: #8f3b3b;
+}
+
+body{
+    color: #ffffff;
+    
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    font-size: 50px;
+    color: #612f38;
+    background-color: #d89494;
+    border-radius: 10px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: #d89494;
+    border-radius: 10px;
+}
